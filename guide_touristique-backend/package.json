@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "file-loader": "^6.2.0",
+    "leaflet": "^1.9.4",
+    "lucide-react": "^0.510.0",
+    "react-leaflet": "^5.0.0"
+  }
+}
